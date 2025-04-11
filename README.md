@@ -6,7 +6,7 @@ This is my first Java application created with IntelliJ IDEA.
 - Prints a message
 - Writing from new line
 - sout + tab
-- features with "\"
+- features with "\\"
 
 
 ### 📚 Part of:
